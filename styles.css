@@ -1,3 +1,4 @@
+
 h1{
     text-align: center;
     background-color: brown;
@@ -28,6 +29,11 @@ h1{
     background-color: cadetblue;
 }
 
+a{
+    display: block;
+    margin-bottom: 10px;
+}
+
 .button{
     font-weight: bold;
 }
@@ -44,12 +50,15 @@ h1{
 img{
     height: 100px;
     width: 100px;
+    margin-left: 700px;
+    border-radius: 50%;
 }
 
 footer{
     margin: 0 auto;
     max-width: 250px;
     text-align: center;
-    background-color: aqua;
+    color: white;
+    background-color: black;
     padding: 1px;
 }
