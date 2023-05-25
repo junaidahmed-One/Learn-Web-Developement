@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.pTag{
+    background-color:gold;
+    color: crimson;
+}
+
+#sl{
+    width: 8%;
+    background-color: darkmagenta;
+
+}
+
+#tl{
+    width: 6%;
+    background-color: yellowgreen;
+}
+
+#at{
+    width: 7%;
+    background-color: cadetblue;
+}
+
+.button{
+    font-weight: bold;
+}
+
+.button:hover{
+    background-color: yellow;
+}
+
+.button:active{
+    font-weight: lighter;
+    background-color: blue;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+footer{
+    margin: 0 auto;
+    max-width: 250px;
+    text-align: center;
+    background-color: aqua;
+    padding: 1px;
+}
